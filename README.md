@@ -1,4 +1,5 @@
-### Hi there 👋
+### Bem vindo guardião da luz! Sinta-se comfortável!
+- Apendendo no momento: MySQL
 
 
 <br>
