@@ -1,5 +1,5 @@
 ### Bem vindo guardião da luz! Sinta-se confortável!
-- Apendendo no momento: MySQL
+- Apendendo no momento: Node.JS
 
 
 <br>
