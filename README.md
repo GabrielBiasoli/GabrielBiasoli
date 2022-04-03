@@ -7,8 +7,8 @@
 ## Github stats
 <a href="https://github.com/GabrielBiasoli">
   <div display="flex" justifyContent="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielBiasoli&show_icons=true&theme=radical&include_all_commits-      true&count_private-true" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBiasoli&layout=compact&langs_count=7&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBiasoli&show_icons=true&theme=radical&include_all_commits-      true&count_private-true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBiasoli&layout=compact&langs_count=7&theme=radical" />
   </div>
 </a>
   
