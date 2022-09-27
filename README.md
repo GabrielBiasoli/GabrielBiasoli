@@ -1,5 +1,5 @@
 ### Be welcome guardian! Feel comfortable! ☕
-- Learning at the moment: Ruby On Rails
+- ⛏ Learning at the moment: Ruby On Rails
 
 
 <br>
