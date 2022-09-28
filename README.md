@@ -1,10 +1,10 @@
 ### Be welcome guardian! Feel comfortable! ☕
-- ⛏ Learning at the moment: Ruby On Rails
+- 🌱 Learning at the moment: Ruby On Rails
 
 
 <br>
 
-## Github stats
+## Github stats:
 <a href="https://github.com/GabrielBiasoli">
   <div display="flex" justifyContent="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBiasoli&count_private=true&theme=radical&show_icons=true&include_all_commits=true" />
@@ -12,7 +12,7 @@
   </div>
 </a>
   
-  ## Stacks
+  ## Languages and Tools:
 ![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=323330)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
