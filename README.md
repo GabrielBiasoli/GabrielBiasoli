@@ -1,4 +1,4 @@
-### Be welcome guardian! Feel comfortable! ☕
+### Be welcome! Feel comfortable! ☕
 - 🌱 Learning at the moment: Ruby On Rails
 
 
