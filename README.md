@@ -4,7 +4,7 @@
 
 <br>
 
-## Github stats:
+
 <a href="https://github.com/GabrielBiasoli">
   <div display="flex" justifyContent="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBiasoli&count_private=true&theme=radical&show_icons=true&include_all_commits=true" />
