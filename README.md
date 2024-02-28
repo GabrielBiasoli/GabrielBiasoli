@@ -7,8 +7,8 @@
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielBiasoli&theme=highcontrast"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBiasoli&theme=highcontrast&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielBiasoli&theme=highcontrast&title_color=52fff9"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBiasoli&theme=highcontrast&layout=compact&title_color=52fff9"/>
 </div>
 
 ---
