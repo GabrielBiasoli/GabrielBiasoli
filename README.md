@@ -1,5 +1,5 @@
 ### Seja bem vindo! ☕
-- 🌱 Aprendendo no momento: JavaScript
+- 🌱 Aprendendo no momento: Java
 
 
 <br>
