@@ -1,5 +1,5 @@
 ### Seja bem vindo! ☕
-- 🌱 Aprendendo no momento: Java
+
 
 
 <br>
@@ -56,7 +56,7 @@
 
 ---
 
-### Contato
+### Contatos
 
 <div>
   <a href="https://www.linkedin.com/in/gabrielbiasoli/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
