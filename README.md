@@ -4,10 +4,6 @@
 
 <br>
 
----
-
-
----
 
 ### Linguagens e Tecnologias Front-end e de estilização :
 
